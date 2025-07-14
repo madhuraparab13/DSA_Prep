@@ -1,4 +1,4 @@
-DSA_Prep – Madhura Parab
+DSA_Prep 
 
 #This repository contains my day-wise preparation of DSA using C++.  
 📅Start Date: July 14, 2025
