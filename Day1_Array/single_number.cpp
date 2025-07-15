@@ -1,6 +1,6 @@
 // Problem : Single Number
 // Link : https://leetcode.com/problems/single-number/
-// Approach : Moore's Voting Algorithm
+// Approach : Using Bitwise Operator
 
 
 class Solution {
