@@ -9,5 +9,5 @@ My daily DSA prep using C++ &amp; LeetCode .
 - GitHub for version control
 - LeetCode, GFG for problems
 ---
-##🚀 Motivation
+## 🚀 Motivation
 Daily commitment to improve problem-solving skills and prepare for high-quality software engineering roles.
