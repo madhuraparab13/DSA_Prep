@@ -1,0 +1,15 @@
+// Problem : Factorial Trailing Zeroes
+// Link : https://leetcode.com/problems/factorial-trailing-zeroes/
+//Approach : Recursive Multiplication
+
+class Solution {
+public:
+    int trailingZeroes(int n) {
+        int count = 0;
+    while (n >= 5) {
+        n /= 5;
+        count += n;
+    }
+    return count;
+    }
+};
