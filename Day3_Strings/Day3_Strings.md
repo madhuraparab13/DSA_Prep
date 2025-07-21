@@ -1,4 +1,4 @@
-📅 Day 3 – Stringcs
+📅 Day 3 – Strings
 
 
 
